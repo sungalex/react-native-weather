@@ -35,6 +35,8 @@ npm run start
 
 ## Create [OpenWeather](https://api.openweathermap.org/) API Key file
 
+- `api_key.js` file is as below
+
 ```js
 export const API_KEY = "API_KEY";    # replace "API_KEY" to your OpenWeather API Key
 ```
