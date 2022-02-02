@@ -32,3 +32,9 @@ expo login
 ```bash
 npm run start
 ```
+
+## Create [OpenWeather](https://api.openweathermap.org/) API Key file
+
+```js
+export const API_KEY = "API_KEY";    # replace "API_KEY" to your OpenWeather API Key
+```

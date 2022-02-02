@@ -2,6 +2,7 @@ import * as Location from "expo-location";
 import { StatusBar } from "expo-status-bar";
 import { useEffect, useState } from "react";
 import { StyleSheet, Text, View, ScrollView, Dimensions } from "react-native";
+import { API_KEY } from "./api_key";
 
 const { width: SCREEN_WIDTH } = Dimensions.get("window");
 
