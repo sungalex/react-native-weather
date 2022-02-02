@@ -16,7 +16,7 @@ npm install expo-location
 - This project was created by `expo-cli` as shown below
 
 ```bash
-expo init weather-react-native
+expo init react-native-weather --npm
 ```
 
 ## Starting Expo App
