@@ -1,4 +1,4 @@
-# weather-react-native
+# React Native Weather
 
 - This project is a fork of a Weather App ([Nomad Coder's `왕초보를 위한 React Native 101`](https://nomadcoders.co/react-native-fundamentals/)) for learning React Native
 
